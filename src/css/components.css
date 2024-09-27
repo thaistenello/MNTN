@@ -1,0 +1,12 @@
+.line{
+    margin-top: .7rem;
+    width: 5rem;
+    height: .1rem;
+    background-color: #FBD784;
+}
+
+.flexCenter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

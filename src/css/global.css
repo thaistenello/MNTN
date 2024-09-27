@@ -1,0 +1,54 @@
+
+/* GLOBALS */
+*{
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  background-color: #0B1D26;
+}
+
+img{
+  display: block;
+}
+
+
+/* Style for the scrollbar */
+::-webkit-scrollbar {
+  width: 12px;
+}
+::-webkit-scrollbar-track {
+  background: #0B1D26;
+}
+::-webkit-scrollbar-thumb {
+  background: #383C3F;
+  border-radius: 10px;  
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #888; 
+}
+/* Firefox */
+body {
+  scrollbar-width: thin;
+  scrollbar-color: #383C3F #0B1D26;
+}
+
+/* FONTS IMPORT */
+/* Gilroy */
+@font-face {
+  font-family: 'Gilroy-Medium';
+  src: url('../assets/fonts/SansSerif-Medium.ttf') format('truetype');
+  font-weight: 300; 
+}; 
+  
+/* Chronicle Display */
+@font-face {
+  font-family: 'Chronicle-Light';
+  src: url('../assets/fonts/Chronicle Display Light.otf') format('opentype');
+  font-weight: 300; 
+};
+
+
