@@ -13,7 +13,7 @@
 ![preview](https://github.com/user-attachments/assets/286caa49-aa5d-411f-87ab-d78f8f998eea)
 
 <!-- VERCEL BUTTON -->
-<a href="#">
+<a href="https://mntn-sand.vercel.app/">
     <img src="https://github.com/user-attachments/assets/ba534699-5e1e-45ed-8f39-5babe9a838af">
 </a>
 
@@ -120,7 +120,7 @@
 ![preview](https://github.com/user-attachments/assets/286caa49-aa5d-411f-87ab-d78f8f998eea)
 
 <!-- VERCEL BUTTON -->
-<a href="#">
+<a href="https://mntn-sand.vercel.app/">
     <img src="https://github.com/user-attachments/assets/7aa7b556-2a45-483d-bae7-535a1f613303">
 </a>
 
