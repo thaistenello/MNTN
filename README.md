@@ -10,11 +10,11 @@
 </h3>
 
 <!-- GIF/IMAGE PREVIEW -->
-![preview](https://github.com/user-attachments/assets/bd9d14dd-14b3-4b54-b196-21fffccfa347)
+![preview](https://github.com/user-attachments/assets/286caa49-aa5d-411f-87ab-d78f8f998eea)
 
 <!-- VERCEL BUTTON -->
 <a href="#">
-    <img src="https://github.com/user-attachments/assets/d8acb054-f266-4e88-86aa-0c88ebc7adcb">
+    <img src="https://github.com/user-attachments/assets/ba534699-5e1e-45ed-8f39-5babe9a838af">
 </a>
 
 <br/>
@@ -117,11 +117,11 @@
 </h3>
 
 <!-- GIF/IMAGE PREVIEW -->
-![preview](https://github.com/user-attachments/assets/bd9d14dd-14b3-4b54-b196-21fffccfa347)
+![preview](https://github.com/user-attachments/assets/286caa49-aa5d-411f-87ab-d78f8f998eea)
 
 <!-- VERCEL BUTTON -->
 <a href="#">
-    <img src="https://github.com/user-attachments/assets/8e892398-831c-40e2-9df5-574ef015a71d">
+    <img src="https://github.com/user-attachments/assets/7aa7b556-2a45-483d-bae7-535a1f613303">
 </a>
 
 <br/>
