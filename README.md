@@ -22,7 +22,7 @@
 <h2>Sobre o Projeto</h2>
 <br/>
 <p>
-    Desenvolvido como estudo da biblioteca Material UI, com foco em performance, animações suaves e experiência do usuário, seguindo o projeto desenvolvido pelo designer Kryston Schwarze, no Figma. Você pode encontrar o original <a href="https://www.figma.com/community/file/788675347108478517">"MNTN - Landing Page"</a>.
+    Este projeto foi desenvolvido como um estudo da biblioteca Material UI, com foco em performance, animações fluidas e uma experiência de usuário aprimorada. Baseado no design original criado para telas maiores pelo designer Kryston Schwarze, disponível no <a href="https://www.figma.com/community/file/788675347108478517">Figma</a>, fiz adaptações para garantir que o visual permanecesse atrativo em diferentes dispositivos. 
 </p>
 <br/>
 
@@ -129,7 +129,7 @@
 <h2>About the Project</h2>
 <br/>
 <p>
-    This project was developed as a study of the Material UI library, focusing on performance, smooth animations, and user experience, based on the design by Kryston Schwarze on Figma. You can find the original design <a href="https://www.figma.com/community/file/788675347108478517">"MNTN - Landing Page"</a>.
+    This project was developed as a study of the Material UI library, focusing on performance, smooth animations, and an enhanced user experience. Based on the original design created for larger screens by designer Kryston Schwarze, available on <a href="https://www.figma.com/community/file/788675347108478517">Figma</a>, I made adaptations to ensure the visual remains attractive across different devices. 
 </p>
 <br/>
 
