@@ -1,5 +1,5 @@
 import { Box, Typography, Link } from '@mui/material';
-import { BgShadow, RightArrow, OneImage, TwoImage, ThreeImage } from '../assets/images/images';
+import { RightArrow, OneImage, TwoImage, ThreeImage } from '../assets/images/images';
 import DataContent from './DataContent.json';
 
 
